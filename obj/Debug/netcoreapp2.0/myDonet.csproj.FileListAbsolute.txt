@@ -1,0 +1,11 @@
+/home/okwe/sampleCode/myDonet/bin/Debug/netcoreapp2.0/myDonet.deps.json
+/home/okwe/sampleCode/myDonet/bin/Debug/netcoreapp2.0/myDonet.runtimeconfig.json
+/home/okwe/sampleCode/myDonet/bin/Debug/netcoreapp2.0/myDonet.runtimeconfig.dev.json
+/home/okwe/sampleCode/myDonet/bin/Debug/netcoreapp2.0/myDonet.dll
+/home/okwe/sampleCode/myDonet/bin/Debug/netcoreapp2.0/myDonet.pdb
+/home/okwe/sampleCode/myDonet/obj/Debug/netcoreapp2.0/myDonet.csprojAssemblyReference.cache
+/home/okwe/sampleCode/myDonet/obj/Debug/netcoreapp2.0/myDonet.csproj.CoreCompileInputs.cache
+/home/okwe/sampleCode/myDonet/obj/Debug/netcoreapp2.0/myDonet.AssemblyInfoInputs.cache
+/home/okwe/sampleCode/myDonet/obj/Debug/netcoreapp2.0/myDonet.AssemblyInfo.cs
+/home/okwe/sampleCode/myDonet/obj/Debug/netcoreapp2.0/myDonet.dll
+/home/okwe/sampleCode/myDonet/obj/Debug/netcoreapp2.0/myDonet.pdb
